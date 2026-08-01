@@ -20,5 +20,5 @@ else if (num === 0) {
     console.log("Zero")
 }
 else{
-    "Enter valid number."
+    "Enter a valid number."
 }
